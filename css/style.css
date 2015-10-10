@@ -1,0 +1,11 @@
+body{
+	background:orange;
+}
+
+.wrap{
+	border:solid 1px black;
+
+	margin:0 auto;
+	width:960px;
+	height:100vh;
+}
